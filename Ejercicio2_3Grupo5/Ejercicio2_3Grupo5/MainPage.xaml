@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio2_3Grupo5.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout Spacing="20" Padding="20">
+            <Image x:Name="Imagen" Source="perfil.png" WidthRequest="200" HeightRequest="200" Aspect="AspectFill" HorizontalOptions="CenterAndExpand">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <ImageButton x:Name="btnfoto" Source="foto.png" WidthRequest="70" Clicked="btnfoto_Clicked" BackgroundColor="Transparent" CornerRadius="5" HorizontalOptions="CenterAndExpand" />
+
+            <Entry x:Name="descripcion" Placeholder="Descripción" MaxLength="100" BackgroundColor="#F2F2F2" FontSize="16" FontFamily="Arial" />
+
+            <Button x:Name="btnguardar" Text="Guardar" Clicked="btnguardar_Clicked" BackgroundColor="#4CAF50" TextColor="White" CornerRadius="5" FontSize="18" FontFamily="Arial" HorizontalOptions="CenterAndExpand" />
+
+            <Button x:Name="btnlista" Text="Ver Lista de Imágenes" Clicked="btnlista_Clicked" BackgroundColor="#E74C3C" TextColor="White" CornerRadius="5" FontSize="18" FontFamily="Arial" HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

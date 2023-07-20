@@ -1,0 +1,16 @@
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\Ejercicio2_3Grupo5.csproj.AssemblyReference.cache
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\Ejercicio2_3Grupo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\Views\PageList.xaml.g.cs
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\Ejercicio2_3Grupo5.AssemblyInfoInputs.cache
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\Ejercicio2_3Grupo5.AssemblyInfo.cs
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\Ejercicio2_3Grupo5.csproj.CoreCompileInputs.cache
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\Ejercicio2_3Grupo5.dll
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\refint\Ejercicio2_3Grupo5.dll
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\Ejercicio2_3Grupo5.pdb
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\bin\Debug\netstandard2.0\Ejercicio2_3Grupo5.deps.json
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\bin\Debug\netstandard2.0\Ejercicio2_3Grupo5.dll
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\bin\Debug\netstandard2.0\ref\Ejercicio2_3Grupo5.dll
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\bin\Debug\netstandard2.0\Ejercicio2_3Grupo5.pdb
+C:\Users\yelsi\source\repos\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\Ejercicio2_3Grupo5\obj\Debug\netstandard2.0\XamlC.stamp

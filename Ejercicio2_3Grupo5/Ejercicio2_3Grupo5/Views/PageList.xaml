@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio2_3Grupo5.Views.PageList"
+             xmlns:conver ="clr-namespace:Ejercicio2_3Grupo5.Controllers">
+    <ContentPage.Resources>
+        <conver:ByteArrayImage x:Key="ByteArray"/>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#F2F2F2" Padding="10">
+            <Label Text="Lista" FontSize="24" FontFamily="Arial" HorizontalOptions="CenterAndExpand" TextColor="#333333" Margin="0,10,0,20" />
+
+            <CollectionView x:Name="Listaemple" SelectionMode="Single">
+                <CollectionView.ItemTemplate >
+                    <DataTemplate>
+                        <Frame BackgroundColor="White" Margin="5" CornerRadius="10" HasShadow="True" WidthRequest="100">
+                            <Grid Padding="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Image Grid.Row="0" x:Name="imagen" Source="{Binding Imagen, Converter={StaticResource ByteArray}}" Aspect="AspectFit" HeightRequest="100" WidthRequest="100"/>
+
+                                <Label Grid.Row="1" Text="{Binding Descripcion}" TextColor="#333333" FontSize="16" FontFamily="Arial" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" />
+                            </Grid>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Orientation="Vertical" Span="2" HorizontalItemSpacing="10" VerticalItemSpacing="10" />
+                </CollectionView.ItemsLayout>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
